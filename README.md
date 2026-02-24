@@ -34,3 +34,4 @@ The core logic resides in a custom Node.js script that handles:
      "supplier": "Acme Corp",
      "date": "2026-02-22"
    }
+link for the automation:https://turbotic.com/canvas/69999bcaf9e774801b921a1a
